@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("New Hola, Git! con cambios");
+        System.out.println("Hola, GitHub!");
     }
 }
